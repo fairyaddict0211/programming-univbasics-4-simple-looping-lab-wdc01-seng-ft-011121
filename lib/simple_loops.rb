@@ -1,9 +1,8 @@
-def loop_message_five_times
+def loop_message_five_times(a_message_string)
   
 end
 
-
-def loop_message_n_times
+def loop_message_n_times()
   
 end
 
@@ -11,4 +10,6 @@ def output_array
   
 end
 
-def 
+def return_string_array(array)
+  
+end
